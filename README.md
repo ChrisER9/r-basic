@@ -24,5 +24,3 @@ Una vez termines el curso podrás seguir con los mejores cursos de análisis de 
 9. Estadística descriptiva con datos cualitativos agrupados
 10. Introducción a la regresión lineal
 11. Introducción a distribuciones de probabilidad
-
-*Y todo esto con mas de 40 horas de estudio*
